@@ -1,0 +1,14 @@
+#+TITLE: Just More Food (JMF)
+#+AUTHOR: Wesley Jr.
+#+EMAIL: wesleyjr2002@gmail.com
+#+DATE: <2021-12-26 Sun>
+
+* Table of Contents                                                     :TOC:
+- [[#about][About]]
+- [[#food-recipes-coming-soon][Food Recipes (Coming Soon)]]
+
+* About
+  This is my first mod for *Minecraft: Bedrock Edition*, my goal is to make a bunch of addons that respect the vanilla experience and are modular (Inspired by the UNIX philosophy), every addon will be compatible with each other, and you can choose to add everyone or just those that you need.
+  Just More Food (JMF) will add new foods to the game, like Fried Egg, Chocolate, Cooked Glow Tentacles (It gives you Night Vision), etc. This addon will add just food and some new drops to the game, being similar to the vanilla experience.
+
+* Food Recipes (Coming Soon)
