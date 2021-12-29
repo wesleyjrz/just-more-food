@@ -16,12 +16,9 @@
           "version": [1, 0, 0]
       }
     ],
-  "metadata":
-    [
-      {
+  "metadata": {
           "authors": ["Wesley Jr."],
           "license": "MIT",
           "url": "https://github.com/wesleyjrz/just-more-food/"
-      }
-    ]
+    }
 }

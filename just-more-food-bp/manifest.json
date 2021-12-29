@@ -16,18 +16,16 @@
           "version": [1, 0, 0]
       }
     ],
-  "dependencies": [
+  "dependencies":
+    [
         {
             "uuid": "a0722ba5-9763-4859-a326-910ba5137928",
             "version": [1, 0, 0]
         }
     ],
-  "metadata":
-    [
-      {
+  "metadata": {
           "authors": ["Wesley Jr."],
           "license": "MIT",
           "url": "https://github.com/wesleyjrz/just-more-food/"
-      }
-    ]
+    }
 }
