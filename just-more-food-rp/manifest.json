@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Add more food to the game!",
+    "name": "Just More Food (JMF)",
+    "uuid":"a0722ba5-9763-4859-a326-910ba5137928",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules":
+    [
+      {
+          "description": "Resouce Pack to Just More Food (JME) addon",
+          "type": "data",
+          "uuid": "9d3b932c-a2d8-4a84-bdbb-237b52a1d821",
+          "version": [1, 0, 0]
+      }
+    ],
+  "metadata":
+    [
+      {
+          "authors": ["Wesley Jr."],
+          "license": "MIT",
+          "url": "https://github.com/wesleyjrz/just-more-food/"
+      }
+    ]
+}
