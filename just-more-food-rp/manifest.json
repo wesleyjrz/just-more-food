@@ -11,7 +11,7 @@
     [
       {
           "description": "Resouce Pack to Just More Food (JME) addon",
-          "type": "data",
+          "type": "resources",
           "uuid": "9d3b932c-a2d8-4a84-bdbb-237b52a1d821",
           "version": [1, 0, 0]
       }
