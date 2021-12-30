@@ -4,6 +4,9 @@
    "texture_data": {
       "fried_egg": {
          "textures": "textures/items/fried_egg"
+      },
+      "bread_with_egg": {
+         "textures": "textures/items/bread_with_egg"
       }
    }
 }
