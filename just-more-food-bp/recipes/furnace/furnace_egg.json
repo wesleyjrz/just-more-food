@@ -1,0 +1,11 @@
+{
+  "format_version": "1.18.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "jmf:furnace_egg"
+      },
+    "tags": ["furnace", "smoker", "campfire", "soul_campfire"],
+    "input": "minecraft:egg",
+    "output": "jmf:fried_egg"
+  }
+}
