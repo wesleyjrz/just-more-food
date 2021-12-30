@@ -5,10 +5,24 @@
 
 * Table of Contents                                                     :TOC:
 - [[#about][About]]
-- [[#food-recipes-coming-soon][Food Recipes (Coming Soon)]]
+- [[#food-recipes-and-information][Food Recipes and Information]]
+  - [[#fried-egg][Fried Egg]]
+  - [[#bread-with-egg][Bread with Egg]]
 
 * About
   This is my first mod for *Minecraft: Bedrock Edition*, my goal is to make a bunch of addons that respect the vanilla experience and are modular (Inspired by the UNIX philosophy), every addon will be compatible with each other, and you can choose to add everyone or just those that you need.
   Just More Food (JMF) will add new foods to the game, like Fried Egg, Chocolate, Cooked Glow Tentacles (It gives you Night Vision), etc. This addon will add just food and some new drops to the game, being similar to the vanilla experience.
 
-* Food Recipes (Coming Soon)
+* Food Recipes and Information
+
+** Fried Egg
+
+   [[./screenshots/furnace_egg.png]]
+
+   *Fried Egg* is my favourite idea in this addon, because I always wanted to make Minecraft eggs more useful, you can stack up to 64 Fried Eggs (not just 16 like normal eggs) in your inventory and it gives you 6 food points and have normal saturation.
+
+** Bread with Egg
+
+   [[./screenshots/crafting_bread_with_egg.png]]
+
+   *Bread with Egg* is a better alternative for those who have wheat and chicken farm and want a pretty good food source. It gives you 7 food points and have normal saturation.
