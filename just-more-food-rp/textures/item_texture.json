@@ -7,6 +7,9 @@
       },
       "bread_with_egg": {
          "textures": "textures/items/bread_with_egg"
+      },
+      "x-burguer": {
+         "textures": "textures/items/x-burguer"
       }
    }
 }
