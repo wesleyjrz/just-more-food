@@ -1,0 +1,9 @@
+{
+   "resource_pack_name": "Just More Food (JMF)",
+   "texture_name": "atlas.items",
+   "texture_data": {
+      "fried_egg": {
+         "textures": "textures/items/fried_egg"
+      }
+   }
+}
