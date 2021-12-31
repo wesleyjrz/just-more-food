@@ -9,6 +9,7 @@
   - [[#fried-egg][Fried Egg]]
   - [[#bread-with-egg][Bread with Egg]]
   - [[#x-burguer][X-Burguer]]
+  - [[#chocolate][Chocolate]]
 
 * About
   This is my first mod for *Minecraft: Bedrock Edition*, my goal is to make a bunch of addons that respect the vanilla experience and are modular (Inspired by the UNIX philosophy), every addon will be compatible with each other, and you can choose to add everyone or just those that you need.
@@ -33,3 +34,9 @@
    [[./screenshots/crafting_x-burguer.png]]
 
    *X-Burguer* is a nice food source, giving the player 8 food points and a good saturation, however it is pretty expensive.
+
+** Chocolate
+
+   [[./screenshots/crafting_chocolate.png]]
+
+   *Chocolate* gives you just 3 food points and have a poor saturation, though it gives speed for 90 seconds.
