@@ -10,6 +10,9 @@
       },
       "x-burguer": {
          "textures": "textures/items/x-burguer"
+      },
+      "chocolate": {
+         "textures": "textures/items/chocolate"
       }
    }
 }
