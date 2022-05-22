@@ -1,18 +1,18 @@
 {
-   "resource_pack_name": "Just More Food (JMF)",
-   "texture_name": "atlas.items",
-   "texture_data": {
-      "fried_egg": {
-         "textures": "textures/items/fried_egg"
-      },
-      "bread_with_egg": {
-         "textures": "textures/items/bread_with_egg"
-      },
-      "x-burguer": {
-         "textures": "textures/items/x-burguer"
-      },
-      "chocolate": {
-         "textures": "textures/items/chocolate"
-      }
-   }
+	"resource_pack_name": "Just More Food (JMF)",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"fried_egg": {
+			"textures": "textures/items/fried_egg"
+		},
+		"bread_with_egg": {
+			"textures": "textures/items/bread_with_egg"
+		},
+		"x-burguer": {
+			"textures": "textures/items/x-burguer"
+		},
+		"chocolate": {
+			"textures": "textures/items/chocolate"
+		}
+	}
 }

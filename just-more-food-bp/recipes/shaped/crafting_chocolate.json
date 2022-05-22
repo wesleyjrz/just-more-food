@@ -1,29 +1,29 @@
 {
-  "format_version": "1.18.0",
-  "minecraft:recipe_shaped": {
-    "description": {
-      "identifier": "jmf:crafting_chocolate"
-      },
-    "tags": ["crafting_table"],
-    "pattern": [
-      "CCC",
-      " S ",
-      " M " 
-      ],
-    "key": {
-      "C": {
-        "item": "minecraft:cocoa_beans"
-        },
-      "S": {
-        "item": "minecraft:sugar"
-        },
-      "M": {
-        "item": "minecraft:milk_bucket"
-        }
-      },
-    "result": {
-      "item": "jmf:chocolate",
-      "count": 3
-      }
-    }
+	"format_version": "1.18.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "jmf:crafting_chocolate"
+			},
+		"tags": ["crafting_table"],
+		"pattern": [
+			"CCC",
+			" S ",
+			" M " 
+			],
+		"key": {
+			"C": {
+				"item": "minecraft:cocoa_beans"
+				},
+			"S": {
+				"item": "minecraft:sugar"
+				},
+			"M": {
+				"item": "minecraft:milk_bucket"
+				}
+			},
+		"result": {
+			"item": "jmf:chocolate",
+			"count": 3
+			}
+		}
 }

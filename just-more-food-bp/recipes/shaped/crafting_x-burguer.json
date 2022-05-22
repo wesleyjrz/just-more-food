@@ -1,27 +1,27 @@
 {
-  "format_version": "1.18.0",
-  "minecraft:recipe_shaped": {
-    "description": {
-      "identifier": "jmf:crafting_x-burguer"
-      },
-    "tags": ["crafting_table"],
-    "pattern": [
-      "SP",
-      "B"
-      ],
-    "key": {
-      "P": {
-        "item": "minecraft:cooked_porkchop"
-        },
-      "S": {
-        "item": "minecraft:cooked_beef"
-        },
-      "B": {
-        "item": "minecraft:bread"
-        }
-      },
-    "result": {
-      "item": "jmf:x-burguer"
-      }
-    }
+	"format_version": "1.18.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "jmf:crafting_x-burguer"
+			},
+		"tags": ["crafting_table"],
+		"pattern": [
+			"SP",
+			"B"
+			],
+		"key": {
+			"P": {
+				"item": "minecraft:cooked_porkchop"
+				},
+			"S": {
+				"item": "minecraft:cooked_beef"
+				},
+			"B": {
+				"item": "minecraft:bread"
+				}
+			},
+		"result": {
+			"item": "jmf:x-burguer"
+			}
+		}
 }

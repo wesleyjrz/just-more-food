@@ -1,31 +1,31 @@
 {
-  "format_version": 2,
-  "header": {
-    "description": "Add more foods to the game!",
-    "name": "Just More Food (JMF)",
-    "uuid":"9773fb0f-dbfd-4597-a1e2-8f3390574b30",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 18, 0]
-  },
-  "modules":
-    [
-      {
-        "description": "This addon adds new foods and food drops to Minecraft.",
-        "type": "data",
-        "uuid": "92b6fa43-f249-459a-8af4-964b63bd30bc",
-        "version": [1, 0, 0]
-      }
-    ],
-  "dependencies":
-    [
-      {
-        "uuid": "a0722ba5-9763-4859-a326-910ba5137928",
-        "version": [1, 0, 0]
-      }
-    ],
-  "metadata": {
-    "authors": ["Wesley Jr."],
-    "license": "MIT",
-    "url": "https://github.com/wesleyjrz/just-more-food/"
-  }
+	"format_version": 2,
+	"header": {
+		"description": "Add more foods to the game!",
+		"name": "Just More Food (JMF)",
+		"uuid":"9773fb0f-dbfd-4597-a1e2-8f3390574b30",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 18, 0]
+	},
+	"modules":
+		[
+			{
+				"description": "This addon adds new foods and food drops to Minecraft.",
+				"type": "data",
+				"uuid": "92b6fa43-f249-459a-8af4-964b63bd30bc",
+				"version": [1, 0, 0]
+			}
+		],
+	"dependencies":
+		[
+			{
+				"uuid": "a0722ba5-9763-4859-a326-910ba5137928",
+				"version": [1, 0, 0]
+			}
+		],
+	"metadata": {
+		"authors": ["Wesley Jr."],
+		"license": "MIT",
+		"url": "https://github.com/wesleyjrz/just-more-food/"
+	}
 }
